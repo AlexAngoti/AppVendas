@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/04 16:27:00.000.546,=C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/04 16:27:57.000.460,=C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/12/04 16:28:29.000.208,=C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/12/04 16:29:55.000.588,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\APPSalvador\Servidor\uFrmServidor.dfm</Transaction>
+    <Transaction>2017/12/04 16:29:55.000.588,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\APPSalvador\Servidor\uFrmServidor.pas</Transaction>
+    <Transaction>2017/12/04 16:30:05.000.081,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\APPSalvador\Servidor\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/12/04 16:30:05.000.081,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\APPSalvador\Servidor\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2017/12/04 16:30:12.000.158,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\APPSalvador\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2017/12/04 16:30:12.000.158,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\APPSalvador\Servidor\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2017/12/04 16:30:51.000.717,C:\Users\Programador\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\APPSalvador\Servidor\ServerSalvador.dproj</Transaction>
+    <Transaction>2020/10/27 10:16:47.000.487,C:\Dev\MeusProjetos\APPSalvador\Servidor\Servidor.dproj=C:\Dev\MeusProjetos\APPSalvador\Servidor\ServerSalvador.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

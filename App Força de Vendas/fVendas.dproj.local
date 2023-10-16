@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2018/08/04 14:03:19.000.218,C:\Gestor\Aplicativo\Fontes\uLogin.pas=C:\Gestor\Aplicativo\Fontes\uAbertura.pas</Transaction>
+    <Transaction>2018/08/04 14:03:19.000.218,C:\Gestor\Aplicativo\Fontes\uLogin.fmx=C:\Gestor\Aplicativo\Fontes\uAbertura.fmx</Transaction>
+    <Transaction>2018/08/04 14:38:52.000.557,C:\Gestor\Aplicativo\Fontes\eGestor.dproj=C:\Gestor\Aplicativo\Fontes\Salvador.dproj</Transaction>
+    <Transaction>2018/08/04 15:40:05.000.918,C:\Gestor\Aplicativo\Fontes\uProduto.fmx=C:\Gestor\Aplicativo\Fontes\uServicos.fmx</Transaction>
+    <Transaction>2018/08/04 15:40:05.000.918,C:\Gestor\Aplicativo\Fontes\uProduto.pas=C:\Gestor\Aplicativo\Fontes\uServicos.pas</Transaction>
+    <Transaction>2018/08/04 16:40:18.000.746,C:\Gestor\Aplicativo\Fontes\uProduto.pas=</Transaction>
+    <Transaction>2018/08/04 17:02:48.000.041,=C:\Gestor\Aplicativo\Fontes\Unit1.pas</Transaction>
+    <Transaction>2018/08/05 09:28:25.000.630,C:\Gestor\Aplicativo\Fontes\uConfig.pas=C:\Gestor\Aplicativo\Fontes\uCliente.pas</Transaction>
+    <Transaction>2018/08/05 09:28:25.000.630,C:\Gestor\Aplicativo\Fontes\uConfig.fmx=C:\Gestor\Aplicativo\Fontes\uCliente.fmx</Transaction>
+    <Transaction>2018/08/05 09:37:34.000.530,=C:\Gestor\Aplicativo\Fontes\uCliente.pas</Transaction>
+    <Transaction>2018/08/05 09:42:24.000.864,C:\Gestor\Aplicativo\Fontes\uSincronizar.pas=C:\Gestor\Aplicativo\Fontes\uConfig.pas</Transaction>
+    <Transaction>2018/08/05 09:42:24.000.864,C:\Gestor\Aplicativo\Fontes\uSincronizar.fmx=C:\Gestor\Aplicativo\Fontes\uConfig.fmx</Transaction>
+    <Transaction>2018/08/05 09:54:32.000.555,=C:\Gestor\Aplicativo\Fontes\uConfig.pas</Transaction>
+    <Transaction>2018/08/07 22:47:08.000.966,C:\Gestor\Aplicativo\Fontes\mGestor.dproj=C:\Gestor\Aplicativo\Fontes\eGestor.dproj</Transaction>
+    <Transaction>2018/08/18 20:35:27.000.842,C:\Gestor\Aplicativo\Fontes\uProduto.pas=C:\Gestor\Aplicativo\Fontes\uCliente.pas</Transaction>
+    <Transaction>2018/08/18 20:35:27.000.842,C:\Gestor\Aplicativo\Fontes\uProduto.fmx=C:\Gestor\Aplicativo\Fontes\uCliente.fmx</Transaction>
+    <Transaction>2018/08/18 20:37:28.000.915,=C:\Gestor\Aplicativo\Fontes\uCliente.pas</Transaction>
+    <Transaction>2019/02/09 08:05:39.000.390,C:\Aplicativo\Fontes\uConfig.pas=</Transaction>
+    <Transaction>2019/02/26 20:24:30.000.513,=C:\Aplicativo\Fontes\uConfig.pas</Transaction>
+    <Transaction>2019/03/11 17:36:20.000.248,C:\Aplicativo\Fontes\uConfig.pas=C:\Aplicativo\Fontes\uVendedor.pas</Transaction>
+    <Transaction>2019/03/11 17:36:20.000.248,C:\Aplicativo\Fontes\uConfig.fmx=C:\Aplicativo\Fontes\uVendedor.fmx</Transaction>
+    <Transaction>2019/03/13 16:18:03.000.763,C:\Aplicativo\Fontes\uVendedor.pas=</Transaction>
+    <Transaction>2019/03/14 22:42:33.000.654,C:\Dev\Aplicativo\Fontes\Assist.dproj=C:\Dev\Aplicativo\Fontes\mGestor.dproj</Transaction>
+    <Transaction>2019/03/14 22:43:56.000.759,C:\Dev\Aplicativo\Fontes\AssistMobile.dproj=C:\Dev\Aplicativo\Fontes\Assist.dproj</Transaction>
+    <Transaction>2019/03/14 22:49:38.000.480,=C:\Dev\Aplicativo\Fontes\ModelSupport_AssistMobile\default.txaPackage</Transaction>
+    <Transaction>2019/03/14 22:51:26.000.577,=C:\Dev\Aplicativo\Fontes\ModelSupport_AssistMobile\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:19.000.410,c:\dev\aplicativo\fontes\modelsupport_assistmobile\default.txvpck=</Transaction>
+    <Transaction>2019/03/15 13:18:19.000.300,C:\Dev\Aplicativo\Fontes\AssistMobile.dproj=C:\Dev\Aplicativo\Fontes\mGestor.dproj</Transaction>
+    <Transaction>2019/03/15 13:18:19.000.425,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:19.000.410,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\default.txaPackage</Transaction>
+    <Transaction>2019/03/15 13:18:19.000.394,c:\dev\aplicativo\fontes\modelsupport_assistmobile\default.txapackage=</Transaction>
+    <Transaction>2019/03/15 13:18:31.000.817,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\uSincronizar\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:31.000.707,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\mGestor\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:32.000.832,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\uDados\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:32.000.629,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\uProduto\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:32.000.176,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\UMenu\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:32.000.692,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\uCliente\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:32.000.488,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\ControlMover\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:33.000.051,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\uAbertura\default.txvpck</Transaction>
+    <Transaction>2019/03/15 13:18:33.000.348,=C:\Dev\Aplicativo\Fontes\ModelSupport_mGestor\mGestor\default.txaPackage</Transaction>
+    <Transaction>2019/06/19 10:19:55.000.972,=C:\Aplicativos\APP-Pedido\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 14:10:17.000.695,=C:\Aplicativos\APP-Pedido\uConfig.pas</Transaction>
+    <Transaction>2019/06/19 15:10:32.000.846,=C:\Aplicativos\APP-Pedido\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 15:12:24.000.906,C:\Aplicativos\APP-Pedido\uPesqVendedor.fmx=C:\Aplicativos\APP-Pedido\Unit1.fmx</Transaction>
+    <Transaction>2019/06/19 15:12:24.000.906,C:\Aplicativos\APP-Pedido\uPesqVendedor.pas=C:\Aplicativos\APP-Pedido\Unit1.pas</Transaction>
+    <Transaction>2019/06/19 15:24:22.000.120,C:\Aplicativos\APP-Pedido\uVendedor.pas=C:\Aplicativos\APP-Pedido\uPesqVendedor.pas</Transaction>
+    <Transaction>2019/06/19 15:24:22.000.120,C:\Aplicativos\APP-Pedido\uVendedor.fmx=C:\Aplicativos\APP-Pedido\uPesqVendedor.fmx</Transaction>
+    <Transaction>2019/08/13 15:22:29.000.000,=C:\Dev\Aplicativos\GVenda\Loading.pas</Transaction>
+    <Transaction>2022/02/02 00:31:16.000.945,C:\Fontes Nexus\GVenda\mGestor.dproj=C:\Fontes Nexus\GVenda\fVendas.dproj</Transaction>
+    <Transaction>2022/02/02 00:31:17.000.149,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:17.000.070,c:\fontes nexus\gvenda\modelsupport_mgestor\default.txapackage=</Transaction>
+    <Transaction>2022/02/02 00:31:18.000.305,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:18.000.680,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uConfig\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:18.000.806,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uProduto\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:18.000.917,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\ControlMover\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:18.000.410,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uCliente\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.835,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uVendedor\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.491,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uSincronizar\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.930,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uAbertura\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.133,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\UMenu\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.586,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uDados\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.382,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\fVendas\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:19.000.025,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\Loading\default.txvpck</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.775,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\fVendas\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.461,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\UMenu\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.382,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uProduto\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.164,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uCliente\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.947,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uConfig\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.618,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uAbertura\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.304,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uVendedor\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.694,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\Loading\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.851,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uDados\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.242,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\uSincronizar\default.txaPackage</Transaction>
+    <Transaction>2022/02/02 00:31:20.000.541,=C:\Fontes Nexus\GVenda\ModelSupport_fVendas\ControlMover\default.txaPackage</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
